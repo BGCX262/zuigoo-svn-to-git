@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+background:#ECFAFF;   
+}   
+.login{background:url(../images/sys.png) no-repeat; width:600px; height:592px; margin:0 auto; font-size:12px ; margin-top:120px;} 
+.user{ padding-top:140px; padding-left:320px;}
+.user span{ display:block; margin-top:10px;}
+.user .input_1{background:#FFFFFF; height:16px; padding:2px; color:#666666;border:1px solid #CCCCCC; width:140px; font-family:Arial, Helvetica, sans-serif}
+.user .input_2{background:#FFFFFF; height:16px; padding:2px; color:#666666;border:1px solid #CCCCCC;width:60px;font-family:Arial, Helvetica, sans-serif}
+.user img{ margin-bottom:-6px;}
+.user .ts{ color:#FF0000; background:url(../images/ts.gif) no-repeat; text-indent:15px; background-position:0px 0px;}
+.button{ padding-top:20px; padding-left:330px;}
+.dl{ background:url(../images/login.gif) no-repeat; width:71px; height:28px; float:left; display:block; margin-left:6px; color:#FFFFFF; line-height:25px;text-align:center; border:0px; cursor:pointer  }
+.bottom{ color:#FFFFFF; padding-top:50px; text-align: center}

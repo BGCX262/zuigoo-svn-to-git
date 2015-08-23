@@ -1,0 +1,251 @@
+@charset "utf-8";
+/* css document */
+/*
+主题名称:无尽软件有限公司
+uri: http://www.centillion-cn.com/
+描述: 常用
+作者: 王孝梅
+作者:centillion
+版本: 1.0
+
+网站
+网址:www.centillion-cn.com
+
+
+[目录表] 
+
+	0- blank
+	1-font
+	2-block
+	3-color
+	4-padiing&margin
+
+*/
+
+
+/* 0-blank –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.blank0 {
+	clear: both; font-size: 0px; overflow: hidden; height: 0px
+}
+.blank1 {
+	clear: both; font-size: 1px; overflow: hidden; height: 1px
+}
+.blank2 {
+	clear: both; font-size: 1px; overflow: hidden; height: 2px
+}
+.blank3 {
+	clear: both; font-size: 1px; overflow: hidden; height: 3px
+}
+.blank4 {
+	clear: both; font-size: 1px; overflow: hidden; height: 4px
+}
+.blank6 {
+	clear: both; font-size: 1px; overflow: hidden; height: 6px
+}
+.blank9 {
+	clear: both; font-size: 1px; overflow: hidden; height: 9px
+}
+.blank12 {
+	clear: both; font-size: 1px; overflow: hidden; height: 12px
+}
+.blank15 {
+	clear: both; font-size: 1px; overflow: hidden; height: 15px
+}
+.blank18 {
+	clear: both; font-size: 1px; overflow: hidden; height: 18px
+}
+.blank21 {
+	clear: both; font-size: 1px; overflow: hidden; height: 21px
+}
+.blank24 {
+	clear: both; font-size: 1px; overflow: hidden; height: 24px
+}
+
+/* 1-font –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.fb {
+	font-weight: bold
+}
+.fi {
+	font-style: italic
+}
+.f12px {
+	font-size: 12px
+}
+.f14px {
+	font-size: 14px
+}
+.f16px {
+	font-size: 16px
+}
+.f24px {
+	font-size: 24px
+}
+.table-left{
+	text-align:left;}
+.table-center{
+	text-align:center;}
+.table-right{
+	text-align:right;}
+
+/* 2-block –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.left {
+	float: left
+}
+.right {
+	float: right
+}
+.inline {
+	display: inline
+}
+.block {
+	display: block
+}
+.clear{clear: both;}
+
+/* 3-color –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.red {color:#ca0000;}
+.blue {color:#319eef;}
+.green {color:#090;}
+.strong {font-weight:600;}
+.yello{background-color:#fefcf0;}
+.gray{background-color:#f1f1f1;}
+.data{color:#4f544d}
+
+.cred a {
+	color: #c60102
+}
+.cred a:link {
+	color: #c60102
+}
+.cred a:hover{
+	color:#f00;
+}
+.cred a:visited {
+	color: #f30
+}
+.cblue a {
+	color: #1f3a87
+}
+.cblue a:link {
+	color: #1f3a87
+}
+.cblue a:visited {
+	color: #1f3a87
+}
+.cdred a {
+	color: #bc2931
+}
+.cdred a:link {
+	color: #bc2931
+}
+.cdred a:visited {
+	color: #bc2931
+}
+.cgray a {
+	color: #4f544d
+}
+.cgray a:link {
+	color: #4f544d
+}
+.cgray a:hover{
+	color:#c60102;
+}
+.cgray a:visited {
+	color: #4f544d
+}
+.cdgray a {
+	color: #4f544d
+}
+.cdgray a:link {
+	color: #5d5d5d
+}
+.cdgray a:visited {
+	color: #5d5d5d
+}
+.cdgray a:hover {
+	color: #5d5d5d
+}
+.cwhite a {
+	color: #fff
+}
+.cwhite a:link {
+	color: #fff
+}
+.cwhite a:visited {
+	color: #fff
+}
+.cwhite a:hover {
+	color: #fff
+}
+.cblack a {
+	color: #000
+}
+.cblack a:link {
+	color: #000
+}
+.cblack a:visited {
+	color: #000
+}
+.cblack a:hover {
+	color: #bc2931
+}
+.cyellow a {
+	color: #ff6600
+}
+.cyellow a:link {
+	color: #ff6600
+}
+.cyellow a:hover{
+	color: #4f544d
+}
+.cyellow a:visited {
+	color: #ff6600
+}
+.cgreen a {
+	color: #008000
+}
+.cgreen a:link {
+	color: #008000
+}
+.cgreen a:visited {
+	color: #008000
+}
+
+
+
+/* 4-padiing&margin –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+.padding0-10{padding:0px 10px ;}
+.padding4{padding:4px;}
+.padding4-0{padding:4px 0px ;}
+.padding0-2{padding:0px 2px ;}
+.padding0-4{padding:0px 4px ;}
+.padding6-10{padding:6px 10px ;}
+.padding6-35{padding:6px 35px ;}
+
+.kuang-1{border: 1px solid #cccccc;
+background-color:#fafafa;}
+.kuang-2{border: 0px solid #cccccc;}
+.kuang-3{border: 1px solid #cccccc;padding:4px;}
+.kuang-4{border: 1px solid #cccccc;}
+.height25{height:25px;line-height:25px;}
+.more-1{
+	background-image:url(../img/more_1.gif);
+	background-repeat:no-repeat;
+	width:37px;
+	height:11px;}
+.arrow-1{
+	padding:2px 6px;
+	background-image:url(../img/arrow_1.gif);
+	background-repeat:no-repeat;
+	width:12px;
+	height:10px;}
+.arrow-2{}
+
+.title-arrow{
+	background-image:url(../img/148.gif);
+	background-repeat:no-repeat;
+	height:18px;width:14px;}
+
+
+

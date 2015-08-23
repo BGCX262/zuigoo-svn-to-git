@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+主题名称:无尽软件有限公司
+URI: http://www.centillion-cn.com/
+描述: 复位
+作者: 王孝梅
+作者:centillion
+版本: 1.0
+
+网站
+网址:www.centillion-cn.com
+
+
+
+
+/* =0 reset
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+html, body, div, span, applet, object, iframe, table, caption,       
+tbody, tfoot, thead, tr, th, td, del, dfn, em, font, img, ins,       
+kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,       
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,       
+acronym, address, big, cite, code, dl, dt, dd, ol, ul, li,       
+fieldset, form, label, legend {
+    font-family:Verdana,宋体;                   
+    outline: 0;       
+    padding: 0;       
+    margin: 0;       
+    border: 0;       
+} 
+
+:focus {       
+    outline: 0;       
+}       
+body {       
+          
+    line-height: 1;       
+    color: black;       
+}       
+ol, ul {       
+    list-style: none;       
+}       
+table {           
+    border-spacing: 0;       
+}       
+caption, th, td {       
+    font-weight: normal;       
+    text-align: left;       
+}       
+blockquote:before, blockquote:after, q:before, q:after {       
+    content: “”;       
+}       
+blockquote, q {       
+    quotes: “” “”;       
+} 
+/*全局样式*/

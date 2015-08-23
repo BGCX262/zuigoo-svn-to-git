@@ -1,0 +1,51 @@
+.header mia{
+BACKGROUND: url(../images/BG_mutou.gif) 
+}
+.mia {
+	OVERFLOW: hidden; ZOOM: 1
+}
+.wid_1000 {
+	MARGIN: 0px auto; OVERFLOW: hidden; WIDTH: 1000px; ZOOM: 1; TEXT-ALIGN: left
+}
+.header {
+	MARGIN: 0px auto; OVERFLOW: hidden; WIDTH: 1000px; ZOOM: 1
+}
+.top {
+	MARGIN: 0px auto; WIDTH: 850px
+}
+.top .logo {
+	FLOAT: left
+}
+.top .top_ad {
+	MARGIN-TOP: 20px; FLOAT: right
+}
+.nav {
+	BACKGROUND: url(../images/i_r2_c5.jpg) repeat-x; MARGIN: 0px auto; OVERFLOW: hidden; WIDTH: 810px; LINE-HEIGHT: 35px; ZOOM: 1; HEIGHT: 35px
+}
+.nav_left {
+	BACKGROUND: url(../images/i_r2_c4.jpg) no-repeat left 50%; LINE-HEIGHT: 35px; HEIGHT: 35px
+}
+.nav_right {
+	BACKGROUND: url(../images/i_r2_c8.jpg) no-repeat right 50%; LINE-HEIGHT: 35px; HEIGHT: 35px
+}
+.nav_right P {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN: 0px auto 0px 15px; COLOR: #fff304; TEXT-ALIGN: center
+}
+.nav_right P A {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; COLOR: #fff304; PADDING-TOP: 0px
+}
+.nav_right P A:hover {
+	COLOR: #fff304; TEXT-DECORATION: none
+}
+.flash_bg {
+	BACKGROUND: url(../images/i_r3_c3.jpg) repeat-x; OVERFLOW: hidden; WIDTH: 1000px; ZOOM: 1; HEIGHT: 140px
+}
+.flash_bg_left {
+	BACKGROUND: url(../images/i_r3_c1.jpg) no-repeat left 50%; WIDTH: 1000px; HEIGHT: 140px
+}
+.flash_bg_right {
+	BACKGROUND: url(../images/i_r3_c10.jpg) no-repeat right 50%; OVERFLOW: hidden; WIDTH: 1000px; ZOOM: 1; HEIGHT: 140px
+}
+.flash_bg_right P {
+	MARGIN-TOP: 2px; MARGIN-LEFT: 100px
+}

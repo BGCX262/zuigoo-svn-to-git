@@ -1,0 +1,447 @@
+﻿
+#mainfrm
+{
+	width:960px;
+	margin:0px 0px 15px 0px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+}
+
+#leftfrm
+{
+	width:720px;
+	float:left;
+}
+
+#articlehd
+{
+	float:left;
+    height:30px;
+    margin:0;
+    padding:0;
+    width:720px;
+    background:url(../images/gonggaobig.png) no-repeat left -30px;
+	overflow:hidden;
+}
+
+#articlehd h3
+{
+   font-size:13px;
+   color:#666666;
+   margin:0;
+   padding:9px 0 0 25px;
+   float:left;
+   width:520px;
+   text-align:left;
+}
+#articlehd div
+{
+	float:left;
+	width:205px;
+	height:30px;
+	background:url(../images/gonggaobig.png) no-repeat right -60px;
+	overflow:hidden;
+	margin:0 0 0 -30px;
+	padding:0;
+}
+
+#articlebd
+{
+	width:718px;
+	border:solid 1px #e4e4e4;
+	margin:-1px 0 0 0;
+	padding:0;
+	float:left;
+	background-color:#f5feff;
+}
+
+#reGoods
+{
+	width:680px;
+	margin:10px 0px 10px 13px!important;
+    margin:10px 0px 10px 6px;
+	border:dotted 1px #e4e4e4;
+	padding:5px;
+	text-align:left;
+	float:left;
+	background-color:#ffffff;
+}
+
+
+#ADListRollContainer
+{
+	width:680px;
+	height:160px;
+	overflow:hidden;
+	float:left; 
+	padding:0px;
+	margin:0px;
+	text-align:left;
+	float:left;
+}
+#ADListRollContainer ul
+{
+	width:1680px;
+	height:150px;
+	cursor:pointer;
+    margin: 0px;
+    padding:0px;
+    list-style-type:none;
+    float:left;
+}
+#ADListRollContainer ul li
+{
+	width:135px;
+	height:150px;
+    padding:0px;
+	margin:0px;
+	text-align:center;
+	float:left;
+}
+.slideFilm
+{
+	float:left;
+	margin:0px;
+	padding:0;
+	border-right:dotted 1px #e4e4e4;
+	text-align:center;
+}
+.imga
+{
+	float:left;
+	text-align:center;
+	width:140px!important;
+	width:136px;
+	margin:0;
+	padding:0;
+	
+}
+.titlea
+{
+	float:left;
+	text-align:center;
+	width:136px!important;
+	width:132px;
+	height:32px;
+	overflow:hidden;
+	margin:2px;
+	padding:0;
+}
+
+.slideFilm img
+{
+	border:solid 1px #e4e4e4;
+	width:100px;
+	height:100px;
+}
+.slideFilm span
+{
+	color:#cc0000;
+	font-family:Tahoma,SimSun,Arial;
+	font-weight:700;
+	font-size:14px;
+	font-style:normal;
+}
+
+
+
+#articleTitle h1
+{
+	width:680px;
+	margin:10px 0px 10px 13px!important;
+    margin:10px 0px 10px 6px;
+	padding:5px;
+	float:left;
+    font-size:16px;
+    font-weight:600;
+    height:18px;
+    overflow:hidden;
+    color:#666666;
+	text-align:center;
+}
+#fbtime
+{
+	width:680px;
+	float:left;
+	text-align:right;
+	margin-top:0px;
+	padding:0;
+}
+
+#articleContent
+{
+	width:680px;
+	margin:0px 0px 10px 13px!important;
+    margin:0px 0px 10px 6px;
+	padding:5px;
+	float:left;
+    text-align:left;
+}
+
+#articleContent p
+{
+  font-size:14px;
+  color:#666666;
+  line-height:160%;
+  text-align:left;
+  padding:0;
+  margin:10px 0 10px 0;
+  width:680px;
+  overflow:hidden;
+}
+
+#articleContent img
+{
+  max-width:680px;
+}
+
+.pagebottom
+{
+	width:680px;
+	margin:0px 0px 10px 13px!important;
+    margin:0px 0px 10px 6px;
+	padding:5px;
+	float:left;
+    text-align:right;
+}
+
+.pagebottom a
+{
+  text-decoration:none;
+   margin:0;
+   padding:0;
+}
+
+span.page
+{
+	border:solid 1px #cccccc;
+	margin:0px 5px 0px 5px;
+	padding:4px 6px 4px 6px;
+	background-color:#ffffff;
+}
+
+.pagebottom strong
+{
+	border:solid 1px #ff5500;
+	margin:0px 5px 0px 5px;
+	padding:4px 6px 4px 6px;
+	background-color:#ffeee5;
+    color:#ff5500;
+}
+
+#articleFoot
+{
+	width:670px;
+	margin:10px 0px 10px 13px!important;
+    margin:10px 0px 10px 6px;
+	padding:10px;
+	float:left;
+	border:solid 1px #787878;
+	background-color:#ffffff;
+}
+#foothd
+{
+	float:left;
+	width:665px;
+	height:25px;
+	border-bottom:dotted 1px #cccccc;
+}
+#flag
+{
+	float:left;
+	width:3px;
+	height:20px;
+	background-color:#ff4d00;
+}
+#retitle
+{
+	float:left;
+	width:100px;
+	height:25px;
+	font-size:13px;
+	font-weight:600;
+	color:#666666;
+	text-align:left;
+	margin-left:10px;
+	padding-top:3px;
+}
+
+#footmargin
+{
+	float:left;
+	width:680px;
+	height:10px;
+}
+
+#footgood ul
+{
+	float:left;
+	margin:10px 0px 15px 0px;
+	width:666px;
+	padding:0 0 10px 0;
+	
+    list-style-type:none;
+    border-bottom:dotted 1px #cccccc;
+}
+
+#footgood ul li
+{
+	float:left;
+	width:165px;
+}
+#footgood ul img
+{
+	width:140px;
+	height:120px;
+	border:solid 1px #cccccc;
+}
+
+.bottomgood
+{
+	float:left;
+	width:165px;
+}
+
+.bottomtitle
+{
+	float:left;
+	width:150px;
+	margin:5px 0px 0px 0px;
+	padding:0 5px 0 5px;
+	height:14px;
+	overflow:hidden;
+}
+
+#FootGoods a:link,#FootGoods a:visited
+{
+	color:#0044dd;
+}
+#FootGoods a:hover,#FootGoods a:active
+{
+	color:#ff5500;
+}
+
+#relationArt ul
+{
+	float:left;
+	margin:0px;
+	width:666px;
+	padding:0 0 5px 0;
+	
+    list-style-type:none;
+    text-align:left;
+}
+
+#relationArt ul li
+{
+	float:left;
+	width:320px;
+	height:20px;
+	overflow:hidden;
+	line-height:170%;
+	background:url(../IMAGE/gonggao.png) no-repeat -318px -250px;
+	padding-left:10px;
+}
+a.rearttitle:link,a.rearttitle:visited
+{
+	color:#000000;
+}
+
+#relationArt ul li a.h
+{
+	color:#ff5500;
+}
+
+
+#rightfrm
+{
+	width:220px;
+	margin:0 0 0 10px;
+	float:left;
+}
+#reshophd
+{
+	float:left;
+	width:220px;
+	height:30px;
+	background:url(../images/gonggao.png) no-repeat left -30px;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+}
+#reshophd h3
+{
+	float:left;
+	width:197px!important;
+	width:196px;
+	height:30px;
+	background:url(../images/gonggao.png) no-repeat right -60px;
+	text-align:left;
+	font-size:13px;
+	color:#666666;
+	overflow:hidden ;
+	padding:9px 0px 0px 0px;
+	margin:0px 0px 0px 23px!important;
+	margin:0 0 0 12px;
+}
+#reshopbd
+{
+	float:left;
+	width:218px;
+	border:solid 1px #e4e4e4;
+	margin:-1px 0 0 0;
+	padding:0;
+	text-align:center;
+}
+
+#reshopbd ul
+{
+	float:left;
+	margin-left:40px;
+	margin-top:10px;
+	width:216px;
+	padding:0;
+	text-align:center;
+    list-style-type:none;
+}
+
+#reshopbd ul li
+{
+	float:left;
+	width:214px;
+	text-align:center;
+	margin-bottom:10px;
+}
+#reshopbd ul img
+{
+	width:140px;
+	height:120px;
+	border:solid 1px #cccccc;
+}
+
+.bottomshop
+{
+	text-align:center;
+	float:left;
+	width:100px;
+}
+
+.shopname
+{
+	float:left;
+	width:200px;
+	margin:5px 0px 0px 0px;
+	padding:0 5px 0 5px;
+	height:14px;
+	overflow:hidden;
+}
+
+#reshopbd a:link,#reshopbd a:visited
+{
+	color:#0044dd;
+}
+#reshopbd a:hover,#reshopbd a:active
+{
+	color:#ff5500;
+}

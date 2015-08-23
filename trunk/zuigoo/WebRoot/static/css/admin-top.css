@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	line-height: 175%;
+	font-size:12px;
+	color:#666;
+}
+a {
+	color: #555;
+	text-decoration:none;
+}
+a:hover {
+	
+}
+
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	display:inline;
+}
+ul{
+    margin:0;
+	padding:0;
+	list-style-position: outside;
+	list-style-type: none;
+}
+li{
+	margin:0;
+	padding:0;
+}
+div{
+	margin:0;
+	padding:0;
+}
+
+
+.header_content{ background: url(../images/topbg_x.jpg) repeat-x; height:45px;}
+.logo{ background:url(../images/topbg.jpg) no-repeat; width:930px; height:45px; float:left}
+.right_nav .text_right {
+	float: right;
+	width: 80%;
+	display: inline;
+	padding: 22px 0 0 0;
+	text-align: right;
+	color:#FFFFFF;
+}
+.text_right{ float:right; color:#FFFFFF; margin-top:25px; font-size:12px; margin-right:100px;}
+.text_right a{ color:#FFFFFF;}
+.text_right a:hover{ color: #66FFFF;}
+.text_right img{ margin-bottom:-2px;}
+
+
+
+#switchpic {
+	width: 6px;
+	cursor:pointer;
+	clear: both;
+	vertical-align: bottom;
+	margin-top: 220px;
+	background:url(../images/switchbg.gif) repeat-y;
+}
+
+/*top menu*/
+#nav {
+	width:100%;
+	float:left;
+	background: url(../images/menubg.jpg) repeat-x ;
+	height:33px;
+}
+#nav ul { 
+	  list-style:none;
+	   
+ }
+#nav li {
+     float:left;
+	 line-height:33px;
+	 font-weight:bold;
+	 background:url(../images/menubg_out.jpg) no-repeat;
+	 height:33px; 
+	 width:107px;
+	 text-align:center;
+	 
+}
+#nav li a{
+	font-size:14px; 
+}
+
+#nav li .on a{ background:url(../images/menubg_on.jpg) no-repeat; width:107px; height:33px; color:#FFFFFF;display:block}
+#nav li a:hover{ background:url(../images/menubg_on.jpg) no-repeat; width:107px; height:33px;color:#FFFFFF; display:block}
+
+#user_info { height:23px;padding-left:20px; padding-top:10px; width:148px; float:left}
+#user_info img{ margin-bottom:-3px;}
+#user_info{
+    color:#0099CC;
+}
+

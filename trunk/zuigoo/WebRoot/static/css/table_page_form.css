@@ -1,0 +1,60 @@
+@charset "utf-8";
+.blank0 {
+	clear: both; font-size: 0px; overflow: hidden; height: 0px
+}
+.blank1 {
+	clear: both; font-size: 1px; overflow: hidden; height: 1px
+}
+.blank2 {
+	clear: both; font-size: 1px; overflow: hidden; height: 2px
+}
+.blank3 {
+	clear: both; font-size: 1px; overflow: hidden; height: 3px
+}
+.blank4 {
+	clear: both; font-size: 1px; overflow: hidden; height: 4px
+}
+.blank6 {
+	clear: both; font-size: 1px; overflow: hidden; height: 6px
+}
+.blank9 {
+	clear: both; font-size: 1px; overflow: hidden; height: 9px
+}
+.blank12 {
+	clear: both; font-size: 1px; overflow: hidden; height: 12px
+}
+.blank15 {
+	clear: both; font-size: 1px; overflow: hidden; height: 15px
+}
+.blank18 {
+	clear: both; font-size: 1px; overflow: hidden; height: 18px
+}
+.blank21 {
+	clear: both; font-size: 1px; overflow: hidden; height: 21px
+}
+.blank24 {
+	clear: both; font-size: 1px; overflow: hidden; height: 24px
+}
+.left {
+	float: left
+}
+.right {
+	float: right
+}
+/*添加表格有边框*/
+.add_table{border:1px solid #CCCCCC; border-collapse:collapse; line-height:18px;  background:#FFFFFF}
+.add_table tr td {border-collapse:collapse; border:1px solid #CCCCCC; height:18px; padding:3px; color: #333333;}
+.add_table tr.over {	background:#FDF7E1 ;cursor:hand;}
+.add_table th {	background:#D6E7FB; font-size:14px; font-weight:bold; height:24px; padding:3px; line-height:24px; }
+/*table_03 单双行*/
+.table_03{border:1px solid #CCCCCC; border-collapse:collapse; line-height:18px;  background:#FFFFFF}
+.table_03 tr td {border-collapse:collapse; border:1px solid #CCCCCC; height:18px; padding:3px; color: #333333;}
+.table_03 tr.over {	background:#FDF7E1 ;cursor:hand;}
+.table_03 th {	background:#D6E7FB; font-size:14px; font-weight:bold; height:24px; padding:3px; line-height:24px; }
+
+/*翻页*/
+.page input{ width:50px;border:1px solid #CCCCCC; background:#FFFFFF; height:14px; padding:2px; color:#666666;}
+.page span{line-height:18px;}
+.page .button{ background:url(../images/page.gif) no-repeat; width:43px; height:18px; display:block; color:#999999; text-align:center;  margin-left:3px;}
+.number{ color: #FFFFFF; padding:0px 2px 0px 6px;height:16px; width:14px; background:#698EAB; border:1px solid #021D3A; margin-left:2px;}
+.number_on{color: #666666; padding:0px 2px 0px 6px;height:16px;width:14px; background:#ffffff; border:1px solid #021D3A;margin-left:2px;}
